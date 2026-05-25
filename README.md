@@ -13,6 +13,13 @@ Desarrollar una aplicación en Java que simula la gestión de pedidos de una piz
 3. Usar el menú de consola.
 
 ## Evidencia
-- Capturas de pantalla de la consola.
+
+## Capturas
+
+### Captura 1
+![Captura 1](<captura 1.png>)
+
+### Captura 2
+![Captura 2](captura2.png)
 - Enlace al video de sustentación.
 Fecha de entrega: 24/05/2026
